@@ -1,6 +1,11 @@
+#kubectl
 alias k='kubectl'
 alias kg='kubectl get'
 alias kc='kubectl config'
 alias kl='kubectl logs'
+
+#docker
 alias d='docker'
+
+#linux
 alias ll='ls -lah'
