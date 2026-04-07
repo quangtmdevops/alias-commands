@@ -1,0 +1,6 @@
+alias k='kubectl'
+alias kg='kubectl get'
+alias kc='kubectl config'
+alias kl='kubectl logs'
+alias d='docker'
+alias ll='ls -lah'
