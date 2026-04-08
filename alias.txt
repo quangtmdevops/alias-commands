@@ -7,5 +7,11 @@ alias kl='kubectl logs'
 #docker
 alias d='docker'
 
+#terraform
+alias t='terraform'
+
+#ansible
+alias as='ansible'
+
 #linux
 alias ll='ls -lah'
