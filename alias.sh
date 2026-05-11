@@ -1,3 +1,4 @@
+#!/bin/bash
 #kubectl
 alias k='kubectl'
 alias kg='kubectl get'
