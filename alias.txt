@@ -15,3 +15,6 @@ alias as='ansible'
 
 #linux
 alias ll='ls -lah'
+
+alias grep='grep --color=auto -i -C 2'
+
